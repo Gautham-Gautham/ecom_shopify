@@ -1,11 +1,8 @@
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:ecom_app/Features/ProductDetails/product_details.dart';
 import 'package:ecom_app/Features/ProductScreen/Screens/product_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hexcolor/hexcolor.dart';
 
-import '../../../Models/add_cart_model.dart';
 import '../../../Models/product_model.dart';
 import '../../../main.dart';
 
